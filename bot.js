@@ -388,3 +388,4 @@
     addMessage("Hello! How can I assist you today?", 'bot');
   }, 1000);
 })();
+
